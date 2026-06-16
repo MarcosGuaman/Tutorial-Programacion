@@ -146,7 +146,7 @@ else {
 ```
 ## Codigo completo
 
-Repositorio → codigo/Vectores_Matrices/EjemploVectores.java
+Repositorio → [codigo/Vectores_Matrices/EjemploVectores.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Vectores_Matrices/EjemploVectores.java)
 
 ---
 
@@ -219,7 +219,7 @@ public class EjemploMatrices {
 
 ## Codigo completo
 
-Repositorio → Codigo/Vectores_Matrices/EjemploMatrices.java
+Repositorio → [Codigo/Vectores_Matrices/EjemploMatrices.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Vectores_Matrices/EjemploVectores.java)
 
 ---
 

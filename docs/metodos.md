@@ -162,7 +162,7 @@ double kelvin = centigrados + 273.15;
 
 ## Codigo completo
 
-Repositorio → codigo/Metodos/EjemploMetodos.java
+Repositorio → [codigo/Metodos/EjemploMetodos.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Metodos/EjemploMetodos.java)
 
 ---
 

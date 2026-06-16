@@ -75,7 +75,7 @@ System.out.println("La suma es: " + suma);
 
 ## Codigo Completo
 
-Repositorio → Codigo/Ciclos/EjemploFor.java
+Repositorio → [Codigo/Ciclos/EjemploFor.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Ciclos/EjemploFor.java)
 
 ---
 
@@ -140,7 +140,7 @@ while(contador <= 5) {
 
 ## Codigo 
 
-Repositorio → Codigo/Ciclos/EjemploWhile.java
+Repositorio → [Codigo/Ciclos/EjemploWhile.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Ciclos/EjemploWhile.java)
 
 
 ---
@@ -223,7 +223,7 @@ System.out.println("Acceso permitido");
 
 ## Codigo 
 
-Repositorio → Codigo/Ciclos/EjemploDoWhile.java
+Repositorio → [Codigo/Ciclos/EjemploDoWhile.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Ciclos/EjemploDoWhile.java)
 
 
 

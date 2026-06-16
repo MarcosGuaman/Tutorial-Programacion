@@ -245,7 +245,7 @@ public class EjemploArchivo {
 
 ## Codigo completo
 
-Repositorio → Codigo/Archivos/EjemploArchivo.java
+Repositorio → [Codigo/Archivos/EjemploArchivo.java](https://github.com/MarcosGuaman/Tutorial-Programacion/blob/master/Codigo/Archivos/EjemploArchivo.java)
 
 ---
 

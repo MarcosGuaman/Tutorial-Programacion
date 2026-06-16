@@ -177,7 +177,7 @@ Se obtienen ingresos totales para:
 
 ## Codigo completo
 
-Repositorio → codigo/Listas/lista.java
+Repositorio → [codigo/Listas/lista.java](https://github.com/MarcosGuaman/Tutorial-Programacion/tree/master/Codigo/ArrayList)
 
 ---
 
