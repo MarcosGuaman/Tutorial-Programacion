@@ -45,13 +45,11 @@ Cada tema incluye:
 
 ### GitHub Pages
 
-https://marcosguaman.github.io/Tutorial-Programacion/
+[Ver Tutorial en GitHub Pages](https://marcosguaman.github.io/Tutorial-Programacion/)
 
 ### Repositorio GitHub
 
-https://github.com/MarcosGuaman/Tutorial-Programacion
-
----
+[Ver Repositorio en GitHub](https://github.com/MarcosGuaman/Tutorial-Programacion)
 
 ## Autor
 
